@@ -1,0 +1,19 @@
+{
+    "html.format.endWithNewline": true,
+    "html.format.wrapLineLength": 100,
+    "workbench.startupEditor": "none",
+    "files.autoSave": "onFocusChange",
+    "editor.cursorBlinking": "phase",
+    "breadcrumbs.enabled": true,
+    "[markdown]": {
+        "editor.wordWrap": "off",
+        "editor.quickSuggestions": false
+    },
+    "java.home": "/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home",
+    "editor.suggest.localityBonus": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "workbench.activityBar.visible": false,
+    "workbench.tree.horizontalScrolling": true,
+    "workbench.editor.tabSizing": "shrink"
+}

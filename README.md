@@ -1,2 +1,6 @@
 # vscode-settings
-My personal preferences for VS Code
+
+A collection of my personal [VS Code](https://code.visualstudio.com/)
+settings and snippets.
+
+Feel free to use 🙂
